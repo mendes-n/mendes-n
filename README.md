@@ -5,9 +5,10 @@
 <div align="center">
   <a href="https://github.com/mendes-n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendes-n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
+    </div>
+  
+  <div>
     <h2 align="center">Tecnologias Utilizadas</h2>
-    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendes-n&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
