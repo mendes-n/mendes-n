@@ -1,4 +1,6 @@
+<div align="center">
 <h2>Olá! Seja bem-vindo(a) ao meu perfil, eu sou a Natalya!</h2>
+  </div>
 
 <h2 align="center">Status</h2>
 
