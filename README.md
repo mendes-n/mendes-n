@@ -1,9 +1,5 @@
 <h2>Olá! Seja bem-vindo(a) ao meu perfil, eu sou a Natalya!</h2>
 
-<p align="center">
-  💻 Estudando HTML5, CSS3 e Javascript (Front-end)
-</p>
-
  <div>
   <a href="https://github.com/mendes-n">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendes-n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
